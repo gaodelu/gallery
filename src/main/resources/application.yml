@@ -1,0 +1,14 @@
+# ?????
+spring:
+  application:
+    name: gallery-manage
+  jpa:
+    database: mysql
+  datasource:
+    url: jdbc:mysql://rm-uf6j8xk6p4zm3p2xnuo.mysql.rds.aliyuncs.com:3306/gallery?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8
+    username: gallery
+    password: qwer@1234
+server:
+  port: 10010
+
+
